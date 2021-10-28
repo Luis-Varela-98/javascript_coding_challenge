@@ -1,2 +1,2 @@
-# javascript_coding_challenge
+# JavaScript Coding Challenge
 A coding challenge resolution
